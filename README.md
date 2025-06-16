@@ -14,6 +14,10 @@ This is a high-performance, voice-operated OTC trading bot that integrates with 
 
 ## Installation
 
+## Video Link
+This video will show the functionality of the Trading Bot . By watching that you may get some idea of the User Interface as well as the Functionality of it. 
+Video Link : https://drive.google.com/file/d/1WIiFEewdH1bIBGIlPtYpowbbzM9gdXau/view?usp=drive_link
+
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.6+ (Check with `python --version`)
@@ -33,5 +37,5 @@ Ensure you have the following installed:
 - **How to run** the project locally
 - A list of **API endpoints**
 - A **troubleshooting** guide
-- A link to the **demo video**
+- A link to the **demo video** 
  
