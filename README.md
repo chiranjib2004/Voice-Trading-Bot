@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/chiranjib2004/Voice-Trading-Bot.git
 
 
 **What's Included?**
